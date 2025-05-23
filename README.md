@@ -51,4 +51,4 @@ The dataset used is `netflix_titles.csv`, which contains information about movie
 1. Clone the repository:
    ```bash
    git clone https://github.com/ys01923/netflix-dataset-analysis.git
-   cd data-science-practice
+   cd netflix-dataset-analysis
